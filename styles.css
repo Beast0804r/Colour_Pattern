@@ -57,9 +57,9 @@ button{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 }
 
-@media (max-width:1200px){
+@media (max-width:0px){
   .btn{
-    margin: 2px;
+    margin:768px;
     display: inline-block;
     height: 100px;
     width: 100px;
